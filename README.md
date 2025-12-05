@@ -7,7 +7,7 @@ A deep learning model to classify chest X-rays into **COVID-19**, **Normal**, an
 
 ---
 
-## 🧠 Model
+## Model
 - **Base Model:** Xception (ImageNet)
 - **Image Size:** 299×299
 - **Batch Size:** 16
@@ -16,7 +16,7 @@ A deep learning model to classify chest X-rays into **COVID-19**, **Normal**, an
 
 ---
 
-## ▶️ How to Run
+## How to Run
 ```bash
 git clone https://github.com/yourusername/yourrepo.git
 cd yourrepo
